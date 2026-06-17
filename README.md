@@ -21,7 +21,7 @@
 
 The platform provides a user-friendly interface and high-performance framework, covering primary categories of fermented foods and associated microbial strains. FFSDB serves as a valuable resource for fermented food research, assisting scientists in elucidating the molecular mechanisms underlying microbial fermentation processes.
 
-> **Live Site:** [https://chen987654123.github.io/ffsdb/](https://chen987654123.github.io/ffsdb/)
+> **Live Site:** [click here](http://ffsdb-ai.top/)
 
 ---
 
